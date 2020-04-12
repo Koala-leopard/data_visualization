@@ -5,7 +5,7 @@ import webbrowser
 webbrowser.open('http://www.baidu.com')
 ```
 
-![](\picture\fig1baidu.png)
+![](fig1baidu.png)
 
 ### 2、使用Requests包获取网页的内容
 
